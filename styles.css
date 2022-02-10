@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3.75rem;
+  font-family: Copperplate, Papyrus, fantasy;
+
+
+}
+h2
+{
+  font-size: 2.1875rem;
+  font-style: italic;
+  font-family:Copperplate, Papyrus, fantasy ;
+}
+p{
+font-size: 1.5625rem;
+
+font-family: Copperplate, Papyrus, fantasy;
+}
+h3{
+  font-size: 1.8rem;
+  font-family: Copperplate, Papyrus, fantasy;
+}
+
+.top-container {
+  background-color: #A8E6CF;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 0;
+}
+
+.profile {
+  background-color: #FDFFAB;
+  margin-bottom: 0;
+}
+
+.skills {
+  background-color: #FFD3B6;
+  margin-bottom: 0;
+}
+
+.skills-row {
+  background-color: #FFAAA5;
+  margin-bottom: 0;
+}
+
+.cricket-image {
+  width: 30%;
+  height: 30%;
+  ;
+}
+
+.cricket1 {
+  width: 30%;
+  height: 30%;
+}
+
+.Assasin {
+  width: 30%;
+  height: 30%;
+}
+
+.mobile-game {
+  width: 30%;
+  height: 30%;
+}
+
+.insta {
+  width: 30%;
+  height: 30%;
+}
+
+.linkedin {
+  width: 30%;
+  height: 30%;
+}
+
+.facebook {
+  width: 30%;
+  height: 30%;
+}
